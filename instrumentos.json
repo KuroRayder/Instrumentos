@@ -6,8 +6,8 @@
         "Tipo": "Cuerda",
         "Material": "Madera de abeto y caoba",
         "Imagen": "https://ss631.liverpool.com.mx/xl/15994622.jpg",
-        "Precio_Compra": 150,
-        "Precio_Venta": 180,
+        "Precio_Compra": 8500,
+        "Precio_Venta": 12000,
         "Stock": 10
     },
     {
@@ -17,8 +17,8 @@
         "Tipo": "Teclas",
         "Material": "Plástico y metal",
         "Imagen": "https://instrumentos.com.do/cdn/shop/files/P-125BK_a_0001_from_p-125bk_2560.jpg?v=1733650894",
-        "Precio_Compra": 500,
-        "Precio_Venta": 600,
+        "Precio_Compra": 45000,
+        "Precio_Venta": 50000,
         "Stock": 5
     },
     {
@@ -28,8 +28,8 @@
         "Tipo": "Percusión",
         "Material": "Madera y metal",
         "Imagen": "https://http2.mlstatic.com/D_NQ_NP_882905-MRD47583569132_092021-O.webp",
-        "Precio_Compra": 800,
-        "Precio_Venta": 950,
+        "Precio_Compra": 40000,
+        "Precio_Venta": 45000,
         "Stock": 3
     },
     {
@@ -39,8 +39,8 @@
         "Tipo": "Cuerda",
         "Material": "Madera de arce y abeto",
         "Imagen": "https://instrumentos.com.do/cdn/shop/files/yamaha-v5sa44.jpg?v=1733736852",
-        "Precio_Compra": 300,
-        "Precio_Venta": 350,
+        "Precio_Compra": 15000,
+        "Precio_Venta": 17500,
         "Stock": 7
     },
     {
@@ -50,8 +50,8 @@
         "Tipo": "Viento-metal",
         "Material": "Latón",
         "Imagen": "https://m.media-amazon.com/images/I/51uvFwTGKcL.jpg",
-        "Precio_Compra": 700,
-        "Precio_Venta": 850,
+        "Precio_Compra": 20000,
+        "Precio_Venta": 25000,
         "Stock": 4
     }
 ]
