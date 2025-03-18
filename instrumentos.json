@@ -5,7 +5,7 @@
         "Marca": "Yamaha",
         "Tipo": "Cuerda",
         "Material": "Madera de abeto y caoba",
-        "Imagen": "https://example.com/images/guitarra_acustica.jpg",
+        "Imagen": "https://ss631.liverpool.com.mx/xl/15994622.jpg",
         "Precio_Compra": 150,
         "Precio_Venta": 180,
         "Stock": 10
@@ -16,7 +16,7 @@
         "Marca": "Casio",
         "Tipo": "Teclas",
         "Material": "Plástico y metal",
-        "Imagen": "https://example.com/images/piano_digital.jpg",
+        "Imagen": "https://instrumentos.com.do/cdn/shop/files/P-125BK_a_0001_from_p-125bk_2560.jpg?v=1733650894",
         "Precio_Compra": 500,
         "Precio_Venta": 600,
         "Stock": 5
@@ -27,7 +27,7 @@
         "Marca": "Pearl",
         "Tipo": "Percusión",
         "Material": "Madera y metal",
-        "Imagen": "https://example.com/images/bateria.jpg",
+        "Imagen": "https://http2.mlstatic.com/D_NQ_NP_882905-MRD47583569132_092021-O.webp",
         "Precio_Compra": 800,
         "Precio_Venta": 950,
         "Stock": 3
@@ -38,7 +38,7 @@
         "Marca": "Stradivarius",
         "Tipo": "Cuerda",
         "Material": "Madera de arce y abeto",
-        "Imagen": "https://example.com/images/violin.jpg",
+        "Imagen": "https://instrumentos.com.do/cdn/shop/files/yamaha-v5sa44.jpg?v=1733736852",
         "Precio_Compra": 300,
         "Precio_Venta": 350,
         "Stock": 7
@@ -49,7 +49,7 @@
         "Marca": "Bach",
         "Tipo": "Viento-metal",
         "Material": "Latón",
-        "Imagen": "https://example.com/images/trompeta.jpg",
+        "Imagen": "https://m.media-amazon.com/images/I/51uvFwTGKcL.jpg",
         "Precio_Compra": 700,
         "Precio_Venta": 850,
         "Stock": 4
