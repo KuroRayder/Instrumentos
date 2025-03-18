@@ -1,0 +1,57 @@
+[
+    {
+        "Codigo": "I001",
+        "Nombre": "Guitarra Acústica",
+        "Marca": "Yamaha",
+        "Tipo": "Cuerda",
+        "Material": "Madera de abeto y caoba",
+        "Imagen": "https://example.com/images/guitarra_acustica.jpg",
+        "Precio_Compra": 150,
+        "Precio_Venta": 180,
+        "Stock": 10
+    },
+    {
+        "Codigo": "I002",
+        "Nombre": "Piano Digital",
+        "Marca": "Casio",
+        "Tipo": "Teclas",
+        "Material": "Plástico y metal",
+        "Imagen": "https://example.com/images/piano_digital.jpg",
+        "Precio_Compra": 500,
+        "Precio_Venta": 600,
+        "Stock": 5
+    },
+    {
+        "Codigo": "I003",
+        "Nombre": "Batería Completa",
+        "Marca": "Pearl",
+        "Tipo": "Percusión",
+        "Material": "Madera y metal",
+        "Imagen": "https://example.com/images/bateria.jpg",
+        "Precio_Compra": 800,
+        "Precio_Venta": 950,
+        "Stock": 3
+    },
+    {
+        "Codigo": "I004",
+        "Nombre": "Violín 4/4",
+        "Marca": "Stradivarius",
+        "Tipo": "Cuerda",
+        "Material": "Madera de arce y abeto",
+        "Imagen": "https://example.com/images/violin.jpg",
+        "Precio_Compra": 300,
+        "Precio_Venta": 350,
+        "Stock": 7
+    },
+    {
+        "Codigo": "I005",
+        "Nombre": "Trompeta Profesional",
+        "Marca": "Bach",
+        "Tipo": "Viento-metal",
+        "Material": "Latón",
+        "Imagen": "https://example.com/images/trompeta.jpg",
+        "Precio_Compra": 700,
+        "Precio_Venta": 850,
+        "Stock": 4
+    }
+]
